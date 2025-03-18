@@ -5,7 +5,7 @@ import os
 from app.config.config import BASE_DIR
 
 # Configuration de l'API en développement
-DEV_API_HOST = 'localhost'
+DEV_API_HOST = '0.0.0.0'
 DEV_API_PORT = 5000
 DEV_API_DEBUG = True
 
